@@ -1,0 +1,6 @@
+[32mINFO    [0m WDM:logger.py:24 Cache is valid for [29/12/2022]
+[32mINFO    [0m WDM:logger.py:14 Looking for [chromedriver 108.0.5359.71 win32] driver in cache 
+[32mINFO    [0m WDM:logger.py:14 Driver found in cache [C:\Users\vmraj\.wdm\drivers\chromedriver\108.0.5359.71\win32\chromedriver.exe]
+[32mINFO    [0m root:test_TestLoginDDT.py:18 ***************** loginPageTitle *****************
+[32mINFO    [0m root:test_TestLoginDDT.py:19 ***************** Test Case Started - loginPageTitle *****************
+[32mINFO    [0m root:test_TestLoginDDT.py:25 ***************** Test Case Status - Passed *****************

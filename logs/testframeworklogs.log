@@ -1,0 +1,419 @@
+25/12/2022 01:14:04 PM:INFO:Cache is valid for [25/12/2022]
+25/12/2022 01:14:04 PM:INFO:Looking for [chromedriver 108.0.5359.71 win32] driver in cache 
+25/12/2022 01:14:04 PM:INFO:Driver found in cache [C:\Users\vmraj\.wdm\drivers\chromedriver\108.0.5359.71\win32\chromedriver.exe]
+25/12/2022 01:14:08 PM:INFO:***************** loginPageTitle *****************
+25/12/2022 01:14:08 PM:INFO:***************** Test Case Started - loginPageTitle *****************
+25/12/2022 01:14:08 PM:INFO:***************** Test Case Status - Passed *****************
+25/12/2022 01:14:10 PM:INFO:Cache is valid for [25/12/2022]
+25/12/2022 01:14:10 PM:INFO:Looking for [chromedriver 108.0.5359.71 win32] driver in cache 
+25/12/2022 01:14:10 PM:INFO:Driver found in cache [C:\Users\vmraj\.wdm\drivers\chromedriver\108.0.5359.71\win32\chromedriver.exe]
+25/12/2022 01:14:14 PM:INFO:***************** login_cred *****************
+25/12/2022 01:14:14 PM:INFO:***************** Test Case Started - login_cred *****************
+25/12/2022 01:14:18 PM:INFO:***************** Test Case Status - Passed *****************
+25/12/2022 01:32:03 PM:INFO:Cache is valid for [25/12/2022]
+25/12/2022 01:32:03 PM:INFO:Looking for [chromedriver 108.0.5359.71 win32] driver in cache 
+25/12/2022 01:32:03 PM:INFO:Driver found in cache [C:\Users\vmraj\.wdm\drivers\chromedriver\108.0.5359.71\win32\chromedriver.exe]
+25/12/2022 01:32:07 PM:INFO:***************** loginPageTitle *****************
+25/12/2022 01:32:07 PM:INFO:***************** Test Case Started - loginPageTitle *****************
+25/12/2022 01:32:07 PM:INFO:***************** Test Case Status - Passed *****************
+25/12/2022 01:32:10 PM:INFO:Cache is valid for [25/12/2022]
+25/12/2022 01:32:10 PM:INFO:Looking for [chromedriver 108.0.5359.71 win32] driver in cache 
+25/12/2022 01:32:10 PM:INFO:Driver found in cache [C:\Users\vmraj\.wdm\drivers\chromedriver\108.0.5359.71\win32\chromedriver.exe]
+25/12/2022 01:32:12 PM:INFO:***************** login_cred *****************
+25/12/2022 01:32:12 PM:INFO:***************** Test Case Started - login_cred *****************
+25/12/2022 01:32:17 PM:INFO:***************** Test Case Status - Passed *****************
+25/12/2022 01:32:19 PM:INFO:Cache is valid for [25/12/2022]
+25/12/2022 01:32:19 PM:INFO:Looking for [chromedriver 108.0.5359.71 win32] driver in cache 
+25/12/2022 01:32:19 PM:INFO:Driver found in cache [C:\Users\vmraj\.wdm\drivers\chromedriver\108.0.5359.71\win32\chromedriver.exe]
+25/12/2022 01:33:48 PM:INFO:Cache is valid for [25/12/2022]
+25/12/2022 01:33:48 PM:INFO:Looking for [chromedriver 108.0.5359.71 win32] driver in cache 
+25/12/2022 01:33:48 PM:INFO:Driver found in cache [C:\Users\vmraj\.wdm\drivers\chromedriver\108.0.5359.71\win32\chromedriver.exe]
+25/12/2022 01:33:52 PM:INFO:***************** loginPageTitle *****************
+25/12/2022 01:33:52 PM:INFO:***************** Test Case Started - loginPageTitle *****************
+25/12/2022 01:33:52 PM:INFO:***************** Test Case Status - Passed *****************
+25/12/2022 01:33:54 PM:INFO:Cache is valid for [25/12/2022]
+25/12/2022 01:33:54 PM:INFO:Looking for [chromedriver 108.0.5359.71 win32] driver in cache 
+25/12/2022 01:33:54 PM:INFO:Driver found in cache [C:\Users\vmraj\.wdm\drivers\chromedriver\108.0.5359.71\win32\chromedriver.exe]
+25/12/2022 01:33:57 PM:INFO:***************** login_cred *****************
+25/12/2022 01:33:57 PM:INFO:***************** Test Case Started - login_cred *****************
+25/12/2022 01:34:04 PM:INFO:***************** Test Case Status - Passed *****************
+25/12/2022 01:34:06 PM:INFO:Cache is valid for [25/12/2022]
+25/12/2022 01:34:06 PM:INFO:Looking for [chromedriver 108.0.5359.71 win32] driver in cache 
+25/12/2022 01:34:06 PM:INFO:Driver found in cache [C:\Users\vmraj\.wdm\drivers\chromedriver\108.0.5359.71\win32\chromedriver.exe]
+25/12/2022 01:50:18 PM:INFO:Cache is valid for [25/12/2022]
+25/12/2022 01:50:18 PM:INFO:Looking for [chromedriver 108.0.5359.71 win32] driver in cache 
+25/12/2022 01:50:18 PM:INFO:Driver found in cache [C:\Users\vmraj\.wdm\drivers\chromedriver\108.0.5359.71\win32\chromedriver.exe]
+25/12/2022 01:50:27 PM:INFO:***************** loginPageTitle *****************
+25/12/2022 01:50:27 PM:INFO:***************** Test Case Started - loginPageTitle *****************
+25/12/2022 01:50:27 PM:INFO:***************** Test Case Status - Passed *****************
+25/12/2022 01:50:29 PM:INFO:Cache is valid for [25/12/2022]
+25/12/2022 01:50:29 PM:INFO:Looking for [chromedriver 108.0.5359.71 win32] driver in cache 
+25/12/2022 01:50:29 PM:INFO:Driver found in cache [C:\Users\vmraj\.wdm\drivers\chromedriver\108.0.5359.71\win32\chromedriver.exe]
+25/12/2022 01:50:34 PM:INFO:***************** login_cred *****************
+25/12/2022 01:50:34 PM:INFO:***************** Test Case Started - login_cred *****************
+25/12/2022 01:50:40 PM:INFO:***************** Test Case Status - Passed *****************
+25/12/2022 01:50:42 PM:INFO:Cache is valid for [25/12/2022]
+25/12/2022 01:50:42 PM:INFO:Looking for [chromedriver 108.0.5359.71 win32] driver in cache 
+25/12/2022 01:50:42 PM:INFO:Driver found in cache [C:\Users\vmraj\.wdm\drivers\chromedriver\108.0.5359.71\win32\chromedriver.exe]
+25/12/2022 01:52:55 PM:INFO:Cache is valid for [25/12/2022]
+25/12/2022 01:52:55 PM:INFO:Looking for [chromedriver 108.0.5359.71 win32] driver in cache 
+25/12/2022 01:52:55 PM:INFO:Driver found in cache [C:\Users\vmraj\.wdm\drivers\chromedriver\108.0.5359.71\win32\chromedriver.exe]
+25/12/2022 01:52:59 PM:INFO:***************** loginPageTitle *****************
+25/12/2022 01:52:59 PM:INFO:***************** Test Case Started - loginPageTitle *****************
+25/12/2022 01:52:59 PM:INFO:***************** Test Case Status - Passed *****************
+25/12/2022 01:53:01 PM:INFO:Cache is valid for [25/12/2022]
+25/12/2022 01:53:01 PM:INFO:Looking for [chromedriver 108.0.5359.71 win32] driver in cache 
+25/12/2022 01:53:01 PM:INFO:Driver found in cache [C:\Users\vmraj\.wdm\drivers\chromedriver\108.0.5359.71\win32\chromedriver.exe]
+25/12/2022 01:53:04 PM:INFO:***************** login_cred *****************
+25/12/2022 01:53:04 PM:INFO:***************** Test Case Started - login_cred *****************
+25/12/2022 01:53:10 PM:INFO:***************** Test Case Status - Passed *****************
+25/12/2022 01:53:12 PM:INFO:Cache is valid for [25/12/2022]
+25/12/2022 01:53:12 PM:INFO:Looking for [chromedriver 108.0.5359.71 win32] driver in cache 
+25/12/2022 01:53:12 PM:INFO:Driver found in cache [C:\Users\vmraj\.wdm\drivers\chromedriver\108.0.5359.71\win32\chromedriver.exe]
+25/12/2022 01:54:26 PM:INFO:Cache is valid for [25/12/2022]
+25/12/2022 01:54:26 PM:INFO:Looking for [chromedriver 108.0.5359.71 win32] driver in cache 
+25/12/2022 01:54:26 PM:INFO:Driver found in cache [C:\Users\vmraj\.wdm\drivers\chromedriver\108.0.5359.71\win32\chromedriver.exe]
+25/12/2022 01:54:29 PM:INFO:***************** loginPageTitle *****************
+25/12/2022 01:54:29 PM:INFO:***************** Test Case Started - loginPageTitle *****************
+25/12/2022 01:54:29 PM:INFO:***************** Test Case Status - Passed *****************
+25/12/2022 01:54:32 PM:INFO:Cache is valid for [25/12/2022]
+25/12/2022 01:54:32 PM:INFO:Looking for [chromedriver 108.0.5359.71 win32] driver in cache 
+25/12/2022 01:54:32 PM:INFO:Driver found in cache [C:\Users\vmraj\.wdm\drivers\chromedriver\108.0.5359.71\win32\chromedriver.exe]
+25/12/2022 01:54:35 PM:INFO:***************** login_cred *****************
+25/12/2022 01:54:35 PM:INFO:***************** Test Case Started - login_cred *****************
+25/12/2022 01:54:40 PM:INFO:***************** Test Case Status - Passed *****************
+25/12/2022 01:54:42 PM:INFO:Cache is valid for [25/12/2022]
+25/12/2022 01:54:42 PM:INFO:Looking for [chromedriver 108.0.5359.71 win32] driver in cache 
+25/12/2022 01:54:42 PM:INFO:Driver found in cache [C:\Users\vmraj\.wdm\drivers\chromedriver\108.0.5359.71\win32\chromedriver.exe]
+26/12/2022 01:17:49 PM:INFO:Current google-chrome version 108.0.5359
+26/12/2022 01:17:49 PM:INFO:Trying to download new driver from http://chromedriver.storage.googleapis.com/108.0.5359.71/chromedriver_win32.zip
+26/12/2022 01:17:52 PM:INFO:Unpack archive C:\Users\vmraj\.wdm\drivers\chromedriver\108.0.5359.71\win32\chromedriver.zip
+26/12/2022 01:18:26 PM:INFO:***************** loginPageTitle *****************
+26/12/2022 01:18:26 PM:INFO:***************** Test Case Started - loginPageTitle *****************
+26/12/2022 01:18:26 PM:INFO:***************** Test Case Status - Passed *****************
+26/12/2022 01:18:29 PM:INFO:Cache is valid for [26/12/2022]
+26/12/2022 01:18:29 PM:INFO:Looking for [chromedriver 108.0.5359.71 win32] driver in cache 
+26/12/2022 01:18:29 PM:INFO:Driver found in cache [C:\Users\vmraj\.wdm\drivers\chromedriver\108.0.5359.71\win32\chromedriver.exe]
+26/12/2022 01:18:31 PM:INFO:***************** login_cred *****************
+26/12/2022 01:18:31 PM:INFO:***************** Test Case Started - login_cred *****************
+26/12/2022 01:18:36 PM:INFO:***************** Test Case Status - Passed *****************
+26/12/2022 01:18:38 PM:INFO:Cache is valid for [26/12/2022]
+26/12/2022 01:18:38 PM:INFO:Looking for [chromedriver 108.0.5359.71 win32] driver in cache 
+26/12/2022 01:18:38 PM:INFO:Driver found in cache [C:\Users\vmraj\.wdm\drivers\chromedriver\108.0.5359.71\win32\chromedriver.exe]
+26/12/2022 01:19:44 PM:INFO:Cache is valid for [26/12/2022]
+26/12/2022 01:19:44 PM:INFO:Looking for [chromedriver 108.0.5359.71 win32] driver in cache 
+26/12/2022 01:19:44 PM:INFO:Driver found in cache [C:\Users\vmraj\.wdm\drivers\chromedriver\108.0.5359.71\win32\chromedriver.exe]
+26/12/2022 01:19:47 PM:INFO:***************** loginPageTitle *****************
+26/12/2022 01:19:47 PM:INFO:***************** Test Case Started - loginPageTitle *****************
+26/12/2022 01:19:47 PM:INFO:***************** Test Case Status - Passed *****************
+26/12/2022 01:19:49 PM:INFO:Cache is valid for [26/12/2022]
+26/12/2022 01:19:49 PM:INFO:Looking for [chromedriver 108.0.5359.71 win32] driver in cache 
+26/12/2022 01:19:49 PM:INFO:Driver found in cache [C:\Users\vmraj\.wdm\drivers\chromedriver\108.0.5359.71\win32\chromedriver.exe]
+26/12/2022 01:19:51 PM:INFO:***************** login_cred *****************
+26/12/2022 01:19:51 PM:INFO:***************** Test Case Started - login_cred *****************
+26/12/2022 01:19:55 PM:INFO:***************** Test Case Status - Passed *****************
+26/12/2022 08:52:53 PM:INFO:Cache is valid for [26/12/2022]
+26/12/2022 08:52:53 PM:INFO:Looking for [chromedriver 108.0.5359.71 win32] driver in cache 
+26/12/2022 08:52:53 PM:INFO:Driver found in cache [C:\Users\vmraj\.wdm\drivers\chromedriver\108.0.5359.71\win32\chromedriver.exe]
+26/12/2022 08:53:28 PM:INFO:***************** loginPageTitle *****************
+26/12/2022 08:53:28 PM:INFO:***************** Test Case Started - loginPageTitle *****************
+26/12/2022 08:53:28 PM:INFO:***************** Test Case Status - Passed *****************
+26/12/2022 08:53:31 PM:INFO:Cache is valid for [26/12/2022]
+26/12/2022 08:53:31 PM:INFO:Looking for [chromedriver 108.0.5359.71 win32] driver in cache 
+26/12/2022 08:53:31 PM:INFO:Driver found in cache [C:\Users\vmraj\.wdm\drivers\chromedriver\108.0.5359.71\win32\chromedriver.exe]
+26/12/2022 08:53:37 PM:INFO:***************** login_cred *****************
+26/12/2022 08:53:37 PM:INFO:***************** Test Case Started - login_cred *****************
+26/12/2022 08:53:46 PM:INFO:***************** Test Case Status - Passed *****************
+27/12/2022 12:43:58 AM:INFO:Current google-chrome version 108.0.5359
+27/12/2022 12:43:58 AM:INFO:Trying to download new driver from http://chromedriver.storage.googleapis.com/108.0.5359.71/chromedriver_win32.zip
+27/12/2022 12:44:02 AM:INFO:Unpack archive C:\Users\vmraj\.wdm\drivers\chromedriver\108.0.5359.71\win32\chromedriver.zip
+27/12/2022 12:44:29 AM:INFO:***************** loginPageTitle *****************
+27/12/2022 12:44:29 AM:INFO:***************** Test Case Started - loginPageTitle *****************
+27/12/2022 12:44:29 AM:INFO:***************** Test Case Status - Passed *****************
+27/12/2022 12:44:31 AM:INFO:Cache is valid for [27/12/2022]
+27/12/2022 12:44:32 AM:INFO:Looking for [chromedriver 108.0.5359.71 win32] driver in cache 
+27/12/2022 12:44:32 AM:INFO:Driver found in cache [C:\Users\vmraj\.wdm\drivers\chromedriver\108.0.5359.71\win32\chromedriver.exe]
+27/12/2022 12:44:35 AM:INFO:***************** login_cred *****************
+27/12/2022 12:44:35 AM:INFO:***************** Test Case Started - login_cred *****************
+27/12/2022 12:44:41 AM:INFO:***************** Test Case Status - Passed *****************
+27/12/2022 12:45:56 AM:INFO:Cache is valid for [27/12/2022]
+27/12/2022 12:45:56 AM:INFO:Looking for [chromedriver 108.0.5359.71 win32] driver in cache 
+27/12/2022 12:45:56 AM:INFO:Driver found in cache [C:\Users\vmraj\.wdm\drivers\chromedriver\108.0.5359.71\win32\chromedriver.exe]
+27/12/2022 12:45:59 AM:INFO:***************** loginPageTitle *****************
+27/12/2022 12:45:59 AM:INFO:***************** Test Case Started - loginPageTitle *****************
+27/12/2022 12:45:59 AM:INFO:***************** Test Case Status - Passed *****************
+27/12/2022 12:46:02 AM:INFO:Cache is valid for [27/12/2022]
+27/12/2022 12:46:02 AM:INFO:Looking for [chromedriver 108.0.5359.71 win32] driver in cache 
+27/12/2022 12:46:02 AM:INFO:Driver found in cache [C:\Users\vmraj\.wdm\drivers\chromedriver\108.0.5359.71\win32\chromedriver.exe]
+27/12/2022 12:46:05 AM:INFO:***************** login_cred *****************
+27/12/2022 12:46:05 AM:INFO:***************** Test Case Started - login_cred *****************
+27/12/2022 12:46:10 AM:INFO:***************** Test Case Status - Passed *****************
+27/12/2022 02:09:34 AM:INFO:Cache is valid for [27/12/2022]
+27/12/2022 02:09:34 AM:INFO:Looking for [chromedriver 108.0.5359.71 win32] driver in cache 
+27/12/2022 02:09:34 AM:INFO:Driver found in cache [C:\Users\vmraj\.wdm\drivers\chromedriver\108.0.5359.71\win32\chromedriver.exe]
+27/12/2022 02:09:41 AM:INFO:***************** loginPageTitle *****************
+27/12/2022 02:09:41 AM:INFO:***************** Test Case Started - loginPageTitle *****************
+27/12/2022 02:09:41 AM:INFO:***************** Test Case Status - Passed *****************
+27/12/2022 02:09:43 AM:INFO:Cache is valid for [27/12/2022]
+27/12/2022 02:09:43 AM:INFO:Looking for [chromedriver 108.0.5359.71 win32] driver in cache 
+27/12/2022 02:09:43 AM:INFO:Driver found in cache [C:\Users\vmraj\.wdm\drivers\chromedriver\108.0.5359.71\win32\chromedriver.exe]
+27/12/2022 02:09:46 AM:INFO:***************** login_cred *****************
+27/12/2022 02:09:46 AM:INFO:***************** Test Case Started - login_cred *****************
+27/12/2022 02:09:53 AM:INFO:***************** Test Case Status - Passed *****************
+27/12/2022 10:13:28 AM:INFO:Cache is valid for [27/12/2022]
+27/12/2022 10:13:28 AM:INFO:Looking for [chromedriver 108.0.5359.71 win32] driver in cache 
+27/12/2022 10:13:28 AM:INFO:Driver found in cache [C:\Users\vmraj\.wdm\drivers\chromedriver\108.0.5359.71\win32\chromedriver.exe]
+27/12/2022 10:13:34 AM:INFO:***************** loginPageTitle *****************
+27/12/2022 10:13:34 AM:INFO:***************** Test Case Started - loginPageTitle *****************
+27/12/2022 10:13:34 AM:INFO:***************** Test Case Status - Passed *****************
+27/12/2022 10:13:36 AM:INFO:Cache is valid for [27/12/2022]
+27/12/2022 10:13:36 AM:INFO:Looking for [chromedriver 108.0.5359.71 win32] driver in cache 
+27/12/2022 10:13:36 AM:INFO:Driver found in cache [C:\Users\vmraj\.wdm\drivers\chromedriver\108.0.5359.71\win32\chromedriver.exe]
+27/12/2022 10:13:39 AM:INFO:***************** login_cred *****************
+27/12/2022 10:13:39 AM:INFO:***************** Test Case Started - login_cred *****************
+27/12/2022 10:14:48 AM:INFO:Cache is valid for [27/12/2022]
+27/12/2022 10:14:48 AM:INFO:Looking for [chromedriver 108.0.5359.71 win32] driver in cache 
+27/12/2022 10:14:48 AM:INFO:Driver found in cache [C:\Users\vmraj\.wdm\drivers\chromedriver\108.0.5359.71\win32\chromedriver.exe]
+27/12/2022 10:14:51 AM:INFO:***************** loginPageTitle *****************
+27/12/2022 10:14:51 AM:INFO:***************** Test Case Started - loginPageTitle *****************
+27/12/2022 10:14:51 AM:INFO:***************** Test Case Status - Passed *****************
+27/12/2022 10:14:54 AM:INFO:Cache is valid for [27/12/2022]
+27/12/2022 10:14:54 AM:INFO:Looking for [chromedriver 108.0.5359.71 win32] driver in cache 
+27/12/2022 10:14:54 AM:INFO:Driver found in cache [C:\Users\vmraj\.wdm\drivers\chromedriver\108.0.5359.71\win32\chromedriver.exe]
+27/12/2022 10:14:57 AM:INFO:***************** login_cred *****************
+27/12/2022 10:14:57 AM:INFO:***************** Test Case Started - login_cred *****************
+27/12/2022 10:17:36 AM:INFO:Cache is valid for [27/12/2022]
+27/12/2022 10:17:36 AM:INFO:Looking for [chromedriver 108.0.5359.71 win32] driver in cache 
+27/12/2022 10:17:36 AM:INFO:Driver found in cache [C:\Users\vmraj\.wdm\drivers\chromedriver\108.0.5359.71\win32\chromedriver.exe]
+27/12/2022 10:17:39 AM:INFO:***************** loginPageTitle *****************
+27/12/2022 10:17:39 AM:INFO:***************** Test Case Started - loginPageTitle *****************
+27/12/2022 10:17:39 AM:INFO:***************** Test Case Status - Passed *****************
+27/12/2022 10:17:41 AM:INFO:Cache is valid for [27/12/2022]
+27/12/2022 10:17:41 AM:INFO:Looking for [chromedriver 108.0.5359.71 win32] driver in cache 
+27/12/2022 10:17:41 AM:INFO:Driver found in cache [C:\Users\vmraj\.wdm\drivers\chromedriver\108.0.5359.71\win32\chromedriver.exe]
+27/12/2022 10:17:44 AM:INFO:***************** login_cred *****************
+27/12/2022 10:17:44 AM:INFO:***************** Test Case Started - login_cred *****************
+27/12/2022 10:36:54 AM:INFO:Cache is valid for [27/12/2022]
+27/12/2022 10:36:54 AM:INFO:Looking for [chromedriver 108.0.5359.71 win32] driver in cache 
+27/12/2022 10:36:54 AM:INFO:Driver found in cache [C:\Users\vmraj\.wdm\drivers\chromedriver\108.0.5359.71\win32\chromedriver.exe]
+27/12/2022 10:36:59 AM:INFO:***************** loginPageTitle *****************
+27/12/2022 10:36:59 AM:INFO:***************** Test Case Started - loginPageTitle *****************
+27/12/2022 10:36:59 AM:INFO:***************** Test Case Status - Passed *****************
+27/12/2022 10:37:01 AM:INFO:Cache is valid for [27/12/2022]
+27/12/2022 10:37:01 AM:INFO:Looking for [chromedriver 108.0.5359.71 win32] driver in cache 
+27/12/2022 10:37:01 AM:INFO:Driver found in cache [C:\Users\vmraj\.wdm\drivers\chromedriver\108.0.5359.71\win32\chromedriver.exe]
+27/12/2022 10:37:05 AM:INFO:***************** login_cred *****************
+27/12/2022 10:37:05 AM:INFO:***************** Test Case Started - login_cred *****************
+27/12/2022 10:40:55 AM:INFO:Cache is valid for [27/12/2022]
+27/12/2022 10:40:55 AM:INFO:Looking for [chromedriver 108.0.5359.71 win32] driver in cache 
+27/12/2022 10:40:55 AM:INFO:Driver found in cache [C:\Users\vmraj\.wdm\drivers\chromedriver\108.0.5359.71\win32\chromedriver.exe]
+27/12/2022 10:40:59 AM:INFO:***************** loginPageTitle *****************
+27/12/2022 10:40:59 AM:INFO:***************** Test Case Started - loginPageTitle *****************
+27/12/2022 10:40:59 AM:INFO:***************** Test Case Status - Passed *****************
+27/12/2022 10:41:01 AM:INFO:Cache is valid for [27/12/2022]
+27/12/2022 10:41:01 AM:INFO:Looking for [chromedriver 108.0.5359.71 win32] driver in cache 
+27/12/2022 10:41:01 AM:INFO:Driver found in cache [C:\Users\vmraj\.wdm\drivers\chromedriver\108.0.5359.71\win32\chromedriver.exe]
+27/12/2022 10:41:06 AM:INFO:***************** login_cred *****************
+27/12/2022 10:41:06 AM:INFO:***************** Test Case Started - login_cred *****************
+27/12/2022 01:08:23 PM:INFO:Cache is valid for [27/12/2022]
+27/12/2022 01:08:23 PM:INFO:Looking for [chromedriver 108.0.5359.71 win32] driver in cache 
+27/12/2022 01:08:23 PM:INFO:Driver found in cache [C:\Users\vmraj\.wdm\drivers\chromedriver\108.0.5359.71\win32\chromedriver.exe]
+27/12/2022 01:08:32 PM:INFO:***************** loginPageTitle *****************
+27/12/2022 01:08:32 PM:INFO:***************** Test Case Started - loginPageTitle *****************
+27/12/2022 01:08:32 PM:INFO:***************** Test Case Status - Passed *****************
+27/12/2022 01:08:34 PM:INFO:Cache is valid for [27/12/2022]
+27/12/2022 01:08:34 PM:INFO:Looking for [chromedriver 108.0.5359.71 win32] driver in cache 
+27/12/2022 01:08:34 PM:INFO:Driver found in cache [C:\Users\vmraj\.wdm\drivers\chromedriver\108.0.5359.71\win32\chromedriver.exe]
+27/12/2022 01:08:39 PM:INFO:***************** login_cred *****************
+27/12/2022 01:08:39 PM:INFO:***************** Test Case Started - login_cred *****************
+27/12/2022 01:09:34 PM:INFO:Cache is valid for [27/12/2022]
+27/12/2022 01:09:34 PM:INFO:Looking for [chromedriver 108.0.5359.71 win32] driver in cache 
+27/12/2022 01:09:34 PM:INFO:Driver found in cache [C:\Users\vmraj\.wdm\drivers\chromedriver\108.0.5359.71\win32\chromedriver.exe]
+27/12/2022 01:09:40 PM:INFO:***************** loginPageTitle *****************
+27/12/2022 01:09:40 PM:INFO:***************** Test Case Started - loginPageTitle *****************
+27/12/2022 01:09:40 PM:INFO:***************** Test Case Status - Passed *****************
+27/12/2022 01:09:42 PM:INFO:Cache is valid for [27/12/2022]
+27/12/2022 01:09:42 PM:INFO:Looking for [chromedriver 108.0.5359.71 win32] driver in cache 
+27/12/2022 01:09:42 PM:INFO:Driver found in cache [C:\Users\vmraj\.wdm\drivers\chromedriver\108.0.5359.71\win32\chromedriver.exe]
+27/12/2022 01:09:47 PM:INFO:***************** login_cred *****************
+27/12/2022 01:09:47 PM:INFO:***************** Test Case Started - login_cred *****************
+27/12/2022 01:13:51 PM:INFO:Cache is valid for [27/12/2022]
+27/12/2022 01:13:51 PM:INFO:Looking for [chromedriver 108.0.5359.71 win32] driver in cache 
+27/12/2022 01:13:51 PM:INFO:Driver found in cache [C:\Users\vmraj\.wdm\drivers\chromedriver\108.0.5359.71\win32\chromedriver.exe]
+27/12/2022 01:13:58 PM:INFO:***************** loginPageTitle *****************
+27/12/2022 01:13:58 PM:INFO:***************** Test Case Started - loginPageTitle *****************
+27/12/2022 01:13:58 PM:INFO:***************** Test Case Status - Passed *****************
+27/12/2022 01:14:00 PM:INFO:Cache is valid for [27/12/2022]
+27/12/2022 01:14:00 PM:INFO:Looking for [chromedriver 108.0.5359.71 win32] driver in cache 
+27/12/2022 01:14:00 PM:INFO:Driver found in cache [C:\Users\vmraj\.wdm\drivers\chromedriver\108.0.5359.71\win32\chromedriver.exe]
+27/12/2022 01:14:04 PM:INFO:***************** login_cred *****************
+27/12/2022 01:14:04 PM:INFO:***************** Test Case Started - login_cred *****************
+27/12/2022 01:15:18 PM:INFO:Cache is valid for [27/12/2022]
+27/12/2022 01:15:18 PM:INFO:Looking for [chromedriver 108.0.5359.71 win32] driver in cache 
+27/12/2022 01:15:18 PM:INFO:Driver found in cache [C:\Users\vmraj\.wdm\drivers\chromedriver\108.0.5359.71\win32\chromedriver.exe]
+27/12/2022 01:15:24 PM:INFO:***************** loginPageTitle *****************
+27/12/2022 01:15:24 PM:INFO:***************** Test Case Started - loginPageTitle *****************
+27/12/2022 01:15:24 PM:INFO:***************** Test Case Status - Passed *****************
+27/12/2022 01:15:26 PM:INFO:Cache is valid for [27/12/2022]
+27/12/2022 01:15:26 PM:INFO:Looking for [chromedriver 108.0.5359.71 win32] driver in cache 
+27/12/2022 01:15:26 PM:INFO:Driver found in cache [C:\Users\vmraj\.wdm\drivers\chromedriver\108.0.5359.71\win32\chromedriver.exe]
+27/12/2022 01:15:32 PM:INFO:***************** login_cred *****************
+27/12/2022 01:15:32 PM:INFO:***************** Test Case Started - login_cred *****************
+27/12/2022 01:15:38 PM:INFO:***************** Test Case Status - Passed *****************
+27/12/2022 01:16:48 PM:INFO:Cache is valid for [27/12/2022]
+27/12/2022 01:16:48 PM:INFO:Looking for [chromedriver 108.0.5359.71 win32] driver in cache 
+27/12/2022 01:16:48 PM:INFO:Driver found in cache [C:\Users\vmraj\.wdm\drivers\chromedriver\108.0.5359.71\win32\chromedriver.exe]
+27/12/2022 01:16:53 PM:INFO:***************** loginPageTitle *****************
+27/12/2022 01:16:53 PM:INFO:***************** Test Case Started - loginPageTitle *****************
+27/12/2022 01:16:53 PM:INFO:***************** Test Case Status - Passed *****************
+27/12/2022 01:16:55 PM:INFO:Cache is valid for [27/12/2022]
+27/12/2022 01:16:55 PM:INFO:Looking for [chromedriver 108.0.5359.71 win32] driver in cache 
+27/12/2022 01:16:55 PM:INFO:Driver found in cache [C:\Users\vmraj\.wdm\drivers\chromedriver\108.0.5359.71\win32\chromedriver.exe]
+27/12/2022 01:16:57 PM:INFO:***************** login_cred *****************
+27/12/2022 01:16:57 PM:INFO:***************** Test Case Started - login_cred *****************
+27/12/2022 01:17:04 PM:INFO:***************** Test Case Status - Passed *****************
+27/12/2022 01:18:32 PM:INFO:Cache is valid for [27/12/2022]
+27/12/2022 01:18:32 PM:INFO:Looking for [chromedriver 108.0.5359.71 win32] driver in cache 
+27/12/2022 01:18:32 PM:INFO:Driver found in cache [C:\Users\vmraj\.wdm\drivers\chromedriver\108.0.5359.71\win32\chromedriver.exe]
+27/12/2022 01:18:37 PM:INFO:***************** loginPageTitle *****************
+27/12/2022 01:18:37 PM:INFO:***************** Test Case Started - loginPageTitle *****************
+27/12/2022 01:18:37 PM:INFO:***************** Test Case Status - Passed *****************
+27/12/2022 01:18:39 PM:INFO:Cache is valid for [27/12/2022]
+27/12/2022 01:18:39 PM:INFO:Looking for [chromedriver 108.0.5359.71 win32] driver in cache 
+27/12/2022 01:18:39 PM:INFO:Driver found in cache [C:\Users\vmraj\.wdm\drivers\chromedriver\108.0.5359.71\win32\chromedriver.exe]
+27/12/2022 01:18:42 PM:INFO:***************** login_cred *****************
+27/12/2022 01:18:42 PM:INFO:***************** Test Case Started - login_cred *****************
+27/12/2022 01:18:48 PM:INFO:***************** Test Case Status - Passed *****************
+27/12/2022 01:21:06 PM:INFO:Cache is valid for [27/12/2022]
+27/12/2022 01:21:06 PM:INFO:Looking for [chromedriver 108.0.5359.71 win32] driver in cache 
+27/12/2022 01:21:06 PM:INFO:Driver found in cache [C:\Users\vmraj\.wdm\drivers\chromedriver\108.0.5359.71\win32\chromedriver.exe]
+27/12/2022 01:21:15 PM:INFO:***************** loginPageTitle *****************
+27/12/2022 01:21:15 PM:INFO:***************** Test Case Started - loginPageTitle *****************
+27/12/2022 01:21:15 PM:INFO:***************** Test Case Status - Passed *****************
+27/12/2022 01:21:18 PM:INFO:Cache is valid for [27/12/2022]
+27/12/2022 01:21:18 PM:INFO:Looking for [chromedriver 108.0.5359.71 win32] driver in cache 
+27/12/2022 01:21:18 PM:INFO:Driver found in cache [C:\Users\vmraj\.wdm\drivers\chromedriver\108.0.5359.71\win32\chromedriver.exe]
+27/12/2022 01:21:25 PM:INFO:***************** login_cred *****************
+27/12/2022 01:21:25 PM:INFO:***************** Test Case Started - login_cred *****************
+27/12/2022 01:21:30 PM:INFO:***************** Test Case Status - Passed *****************
+29/12/2022 11:37:54 PM:INFO:Current google-chrome version 108.0.5359
+29/12/2022 11:38:01 PM:INFO:Trying to download new driver from http://chromedriver.storage.googleapis.com/108.0.5359.71/chromedriver_win32.zip
+29/12/2022 11:39:43 PM:INFO:Current google-chrome version 108.0.5359
+29/12/2022 11:39:43 PM:INFO:Trying to download new driver from http://chromedriver.storage.googleapis.com/108.0.5359.71/chromedriver_win32.zip
+29/12/2022 11:39:58 PM:INFO:Unpack archive C:\Users\vmraj\.wdm\drivers\chromedriver\108.0.5359.71\win32\chromedriver.zip
+29/12/2022 11:40:55 PM:INFO:Cache is valid for [29/12/2022]
+29/12/2022 11:40:55 PM:INFO:Looking for [chromedriver 108.0.5359.71 win32] driver in cache 
+29/12/2022 11:40:55 PM:INFO:Driver found in cache [C:\Users\vmraj\.wdm\drivers\chromedriver\108.0.5359.71\win32\chromedriver.exe]
+29/12/2022 11:41:17 PM:INFO:***************** login_cred *****************
+29/12/2022 11:41:17 PM:INFO:***************** Test Case Started - login_cred *****************
+29/12/2022 11:41:26 PM:WARNING:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000197DBAF7700>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/47052be3e67a5c48e024be628595d315
+29/12/2022 11:41:28 PM:WARNING:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000197DAA05570>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/47052be3e67a5c48e024be628595d315
+29/12/2022 11:41:30 PM:WARNING:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000197DAA05480>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/47052be3e67a5c48e024be628595d315
+29/12/2022 11:44:10 PM:INFO:Cache is valid for [29/12/2022]
+29/12/2022 11:44:10 PM:INFO:Looking for [chromedriver 108.0.5359.71 win32] driver in cache 
+29/12/2022 11:44:10 PM:INFO:Driver found in cache [C:\Users\vmraj\.wdm\drivers\chromedriver\108.0.5359.71\win32\chromedriver.exe]
+29/12/2022 11:44:33 PM:INFO:***************** loginPageTitle *****************
+29/12/2022 11:44:33 PM:INFO:***************** Test Case Started - loginPageTitle *****************
+29/12/2022 11:44:33 PM:INFO:***************** Test Case Status - Passed *****************
+29/12/2022 11:44:36 PM:INFO:Cache is valid for [29/12/2022]
+29/12/2022 11:44:36 PM:INFO:Looking for [chromedriver 108.0.5359.71 win32] driver in cache 
+29/12/2022 11:44:36 PM:INFO:Driver found in cache [C:\Users\vmraj\.wdm\drivers\chromedriver\108.0.5359.71\win32\chromedriver.exe]
+29/12/2022 11:44:59 PM:INFO:***************** login_cred *****************
+29/12/2022 11:44:59 PM:INFO:***************** Test Case Started - login_cred *****************
+29/12/2022 11:45:15 PM:INFO:***************** Test Case Status - Passed *****************
+29/12/2022 11:58:02 PM:INFO:Cache is valid for [29/12/2022]
+29/12/2022 11:58:02 PM:INFO:Looking for [chromedriver 108.0.5359.71 win32] driver in cache 
+29/12/2022 11:58:02 PM:INFO:Driver found in cache [C:\Users\vmraj\.wdm\drivers\chromedriver\108.0.5359.71\win32\chromedriver.exe]
+29/12/2022 11:58:22 PM:INFO:***************** loginPageTitle *****************
+29/12/2022 11:58:22 PM:INFO:***************** Test Case Started - loginPageTitle *****************
+29/12/2022 11:58:22 PM:INFO:***************** Test Case Status - Passed *****************
+29/12/2022 11:58:25 PM:INFO:Cache is valid for [29/12/2022]
+29/12/2022 11:58:25 PM:INFO:Looking for [chromedriver 108.0.5359.71 win32] driver in cache 
+29/12/2022 11:58:25 PM:INFO:Driver found in cache [C:\Users\vmraj\.wdm\drivers\chromedriver\108.0.5359.71\win32\chromedriver.exe]
+29/12/2022 11:58:38 PM:INFO:***************** login_cred *****************
+29/12/2022 11:58:38 PM:INFO:***************** Test Case Started - login_cred *****************
+29/12/2022 11:58:55 PM:INFO:***************** Test Case Status - Passed *****************
+30/12/2022 12:32:11 AM:INFO:Current google-chrome version 108.0.5359
+30/12/2022 12:32:11 AM:INFO:Trying to download new driver from http://chromedriver.storage.googleapis.com/108.0.5359.71/chromedriver_win32.zip
+30/12/2022 12:32:16 AM:INFO:Unpack archive C:\Users\vmraj\.wdm\drivers\chromedriver\108.0.5359.71\win32\chromedriver.zip
+30/12/2022 12:33:50 AM:INFO:Current google-chrome version 108.0.5359
+30/12/2022 12:33:50 AM:INFO:Trying to download new driver from http://chromedriver.storage.googleapis.com/108.0.5359.71/chromedriver_win32.zip
+30/12/2022 12:33:56 AM:INFO:Unpack archive C:\Users\vmraj\.wdm\drivers\chromedriver\108.0.5359.71\win32\chromedriver.zip
+30/12/2022 12:37:03 AM:INFO:Current google-chrome version 108.0.5359
+30/12/2022 12:37:11 AM:INFO:Trying to download new driver from http://chromedriver.storage.googleapis.com/108.0.5359.71/chromedriver_win32.zip
+30/12/2022 12:38:27 AM:INFO:Unpack archive C:\Users\vmraj\.wdm\drivers\chromedriver\108.0.5359.71\win32\chromedriver.zip
+30/12/2022 12:38:47 AM:INFO:Current google-chrome version 108.0.5359
+30/12/2022 12:40:34 AM:INFO:Current google-chrome version 108.0.5359
+30/12/2022 12:40:34 AM:INFO:Trying to download new driver from http://chromedriver.storage.googleapis.com/108.0.5359.71/chromedriver_win32.zip
+30/12/2022 12:41:24 AM:INFO:Unpack archive C:\Users\vmraj\.wdm\drivers\chromedriver\108.0.5359.71\win32\chromedriver.zip
+30/12/2022 12:49:26 AM:INFO:Current google-chrome version 108.0.5359
+30/12/2022 12:49:26 AM:INFO:Trying to download new driver from http://chromedriver.storage.googleapis.com/108.0.5359.71/chromedriver_win32.zip
+30/12/2022 12:49:31 AM:INFO:Unpack archive C:\Users\vmraj\.wdm\drivers\chromedriver\108.0.5359.71\win32\chromedriver.zip
+30/12/2022 12:56:36 AM:INFO:Current google-chrome version 108.0.5359
+30/12/2022 12:56:37 AM:INFO:Trying to download new driver from http://chromedriver.storage.googleapis.com/108.0.5359.71/chromedriver_win32.zip
+30/12/2022 12:56:41 AM:INFO:Unpack archive C:\Users\vmraj\.wdm\drivers\chromedriver\108.0.5359.71\win32\chromedriver.zip
+30/12/2022 12:58:56 AM:INFO:Current google-chrome version 108.0.5359
+30/12/2022 12:58:57 AM:INFO:Trying to download new driver from http://chromedriver.storage.googleapis.com/108.0.5359.71/chromedriver_win32.zip
+30/12/2022 12:59:00 AM:INFO:Unpack archive C:\Users\vmraj\.wdm\drivers\chromedriver\108.0.5359.71\win32\chromedriver.zip
+30/12/2022 12:59:01 AM:INFO:Current google-chrome version 108.0.5359
+30/12/2022 12:59:01 AM:INFO:Trying to download new driver from http://chromedriver.storage.googleapis.com/108.0.5359.71/chromedriver_win32.zip
+30/12/2022 12:59:04 AM:INFO:Unpack archive C:\Users\vmraj\.wdm\drivers\chromedriver\108.0.5359.71\win32\chromedriver.zip
+30/12/2022 01:04:04 AM:INFO:Current google-chrome version 108.0.5359
+30/12/2022 01:04:04 AM:INFO:Trying to download new driver from http://chromedriver.storage.googleapis.com/108.0.5359.71/chromedriver_win32.zip
+30/12/2022 01:04:11 AM:INFO:Unpack archive C:\Users\vmraj\.wdm\drivers\chromedriver\108.0.5359.71\win32\chromedriver.zip
+30/12/2022 01:07:41 AM:INFO:Current google-chrome version 108.0.5359
+30/12/2022 01:07:41 AM:INFO:Trying to download new driver from http://chromedriver.storage.googleapis.com/108.0.5359.71/chromedriver_win32.zip
+30/12/2022 01:07:47 AM:INFO:Unpack archive C:\Users\vmraj\.wdm\drivers\chromedriver\108.0.5359.71\win32\chromedriver.zip
+30/12/2022 01:08:38 AM:INFO:Current google-chrome version 108.0.5359
+30/12/2022 01:08:38 AM:INFO:Trying to download new driver from http://chromedriver.storage.googleapis.com/108.0.5359.71/chromedriver_win32.zip
+30/12/2022 01:08:42 AM:INFO:Unpack archive C:\Users\vmraj\.wdm\drivers\chromedriver\108.0.5359.71\win32\chromedriver.zip
+30/12/2022 11:38:37 PM:INFO:Current google-chrome version 108.0.5359
+30/12/2022 11:40:53 PM:INFO:Current google-chrome version 108.0.5359
+30/12/2022 11:41:25 PM:INFO:Current google-chrome version 108.0.5359
+30/12/2022 11:42:12 PM:INFO:Current google-chrome version 108.0.5359
+30/12/2022 11:42:52 PM:INFO:Current google-chrome version 108.0.5359
+30/12/2022 11:42:52 PM:INFO:Current google-chrome version 108.0.5359
+30/12/2022 11:51:53 PM:INFO:Current google-chrome version 108.0.5359
+30/12/2022 11:51:53 PM:INFO:Trying to download new driver from http://chromedriver.storage.googleapis.com/108.0.5359.71/chromedriver_win32.zip
+30/12/2022 11:52:00 PM:INFO:Unpack archive C:\Users\vmraj\.wdm\drivers\chromedriver\108.0.5359.71\win32\chromedriver.zip
+30/12/2022 11:52:33 PM:INFO:***************** loginPageTitle *****************
+30/12/2022 11:52:33 PM:INFO:***************** Test Case Started - loginPageTitle *****************
+30/12/2022 11:52:33 PM:INFO:***************** Test Case Status - Passed *****************
+30/12/2022 11:52:35 PM:INFO:Cache is valid for [30/12/2022]
+30/12/2022 11:52:35 PM:INFO:Looking for [chromedriver 108.0.5359.71 win32] driver in cache 
+30/12/2022 11:52:35 PM:INFO:Driver found in cache [C:\Users\vmraj\.wdm\drivers\chromedriver\108.0.5359.71\win32\chromedriver.exe]
+30/12/2022 11:52:39 PM:INFO:***************** login_cred *****************
+30/12/2022 11:52:39 PM:INFO:***************** Test Case Started - login_cred *****************
+30/12/2022 11:52:58 PM:INFO:***************** Test Case Status - Passed *****************
+30/12/2022 11:53:32 PM:INFO:Cache is valid for [30/12/2022]
+30/12/2022 11:53:32 PM:INFO:Looking for [chromedriver 108.0.5359.71 win32] driver in cache 
+30/12/2022 11:53:32 PM:INFO:Driver found in cache [C:\Users\vmraj\.wdm\drivers\chromedriver\108.0.5359.71\win32\chromedriver.exe]
+30/12/2022 11:53:37 PM:INFO:***************** login_cred *****************
+30/12/2022 11:53:37 PM:INFO:***************** Test Case Started - login_cred *****************
+30/12/2022 11:57:59 PM:INFO:Cache is valid for [30/12/2022]
+30/12/2022 11:57:59 PM:INFO:Looking for [chromedriver 108.0.5359.71 win32] driver in cache 
+30/12/2022 11:57:59 PM:INFO:Driver found in cache [C:\Users\vmraj\.wdm\drivers\chromedriver\108.0.5359.71\win32\chromedriver.exe]
+30/12/2022 11:58:05 PM:INFO:***************** loginPageTitle *****************
+30/12/2022 11:58:05 PM:INFO:***************** Test Case Started - loginPageTitle *****************
+30/12/2022 11:58:05 PM:INFO:***************** Test Case Status - Passed *****************
+30/12/2022 11:58:07 PM:INFO:Cache is valid for [30/12/2022]
+30/12/2022 11:58:07 PM:INFO:Looking for [chromedriver 108.0.5359.71 win32] driver in cache 
+30/12/2022 11:58:07 PM:INFO:Driver found in cache [C:\Users\vmraj\.wdm\drivers\chromedriver\108.0.5359.71\win32\chromedriver.exe]
+30/12/2022 11:58:12 PM:INFO:***************** login_cred *****************
+30/12/2022 11:58:12 PM:INFO:***************** Test Case Started - login_cred *****************
+30/12/2022 11:58:29 PM:INFO:***************** Test Case Status - Passed *****************
+30/12/2022 11:59:01 PM:INFO:Cache is valid for [30/12/2022]
+30/12/2022 11:59:01 PM:INFO:Looking for [chromedriver 108.0.5359.71 win32] driver in cache 
+30/12/2022 11:59:01 PM:INFO:Driver found in cache [C:\Users\vmraj\.wdm\drivers\chromedriver\108.0.5359.71\win32\chromedriver.exe]
+30/12/2022 11:59:05 PM:INFO:***************** login_cred *****************
+30/12/2022 11:59:05 PM:INFO:***************** Test Case Started - login_cred *****************
+03/01/2023 12:39:39 PM:INFO:Current google-chrome version 108.0.5359
+03/01/2023 12:39:39 PM:INFO:Trying to download new driver from http://chromedriver.storage.googleapis.com/108.0.5359.71/chromedriver_win32.zip
+03/01/2023 12:39:45 PM:INFO:Unpack archive C:\Users\vmraj\.wdm\drivers\chromedriver\108.0.5359.71\win32\chromedriver.zip
+03/01/2023 12:40:12 PM:INFO:***************** login_cred *****************
+03/01/2023 12:40:12 PM:INFO:***************** Test Case Started - login_cred *****************
+03/01/2023 01:04:43 PM:INFO:Cache is valid for [03/01/2023]
+03/01/2023 01:04:43 PM:INFO:Looking for [chromedriver 108.0.5359.71 win32] driver in cache 
+03/01/2023 01:04:43 PM:INFO:Driver found in cache [C:\Users\vmraj\.wdm\drivers\chromedriver\108.0.5359.71\win32\chromedriver.exe]
+03/01/2023 01:05:05 PM:INFO:***************** login_cred *****************
+03/01/2023 01:05:05 PM:INFO:***************** Test Case Started - login_cred *****************
